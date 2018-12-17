@@ -1,0 +1,11 @@
+.banner {
+  height: calc(100vh - 80px);
+  background-color: grey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fab {
+  margin-right: 10px;
+}
