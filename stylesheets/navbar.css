@@ -1,0 +1,43 @@
+.navbar {
+  height: 80px;
+  background-color: #323232;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  min-width: 100%;
+}
+
+.navbar-content-top {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+h2 {
+  color: #3AC0C7;
+  margin: 0;
+}
+
+.navbar-link {
+  color: white;
+  padding: 0px 5px;
+  margin: 0;
+}
+
+.navbar-link:hover {
+  color: white;
+  box-shadow: 0 3px 2px -2px white;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+
