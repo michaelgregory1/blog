@@ -1,0 +1,27 @@
+.post-card {
+  border: 1px solid grey;
+  margin-bottom: 10px;
+}
+
+.card-image {
+  background-color: grey;
+  height: 200px;
+}
+
+.card-title {
+  border-bottom: 1px solid grey;
+  margin: 20px 20px;
+  padding-bottom: 20px;
+}
+
+.card-icons {
+  display: flex;
+  margin: 20px 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.latest-title {
+  text-align: center;
+  margin: 40px 0px;
+}

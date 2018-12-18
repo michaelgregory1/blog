@@ -1,8 +1,9 @@
 .partners {
-  height: 100px;
+  height: 150px;
   background-color: grey;
   padding: 0 40px;
   justify-content: space-around;
+  margin: 40px 0px;
 }
 
 .top {
