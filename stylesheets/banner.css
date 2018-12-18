@@ -1,5 +1,6 @@
 .banner {
-  height: calc(100vh - 80px);
+  margin-top: -80px;
+  height: 100vh;
   background-color: grey;
   display: flex;
   justify-content: space-around;
@@ -8,4 +9,8 @@
 
 .fab {
   margin-right: 10px;
+}
+
+.banner-text {
+  margin: 0px 30px;
 }

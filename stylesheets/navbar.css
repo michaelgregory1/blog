@@ -1,15 +1,15 @@
 .navbar {
   height: 80px;
-  background-color: #323232;
+  background-color: transparent;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-direction: column;
+  justify-content: space-between;
   min-width: 100%;
+  box-shadow: 0 3px 2px -2px white;
+  padding: 0px 40px;
 }
 
 .navbar-content-top {
-  width: 80%;
+  width: 60%;
   display: flex;
   justify-content: space-between;
 }
@@ -30,7 +30,7 @@ h2 {
 
 .navbar-link {
   color: white;
-  padding: 0px 5px;
+  padding: 0px 10px;
   margin: 0;
 }
 

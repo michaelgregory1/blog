@@ -1,0 +1,11 @@
+.partners {
+  height: 100px;
+  background-color: grey;
+  padding: 0 40px;
+  justify-content: space-around;
+}
+
+.top {
+  max-width: 500px;
+  box-shadow: 5px 0px 5px -5px white;
+}
